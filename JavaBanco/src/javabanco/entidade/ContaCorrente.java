@@ -18,6 +18,7 @@ public class ContaCorrente {
 	
 	public float credito(float valor) {
 		saldo += valor;
+//		Operacao o = new Operacao(valor, "CREDITO", new Date());
 		operacoes.add(valor);
 		return saldo;
 	}
