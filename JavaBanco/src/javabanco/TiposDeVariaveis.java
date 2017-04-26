@@ -63,6 +63,8 @@ public class TiposDeVariaveis {
 		System.out.println("Nome do titular cc2: " + cc2.getTitular());
 		System.out.println("Numero da conta cc1: " + cc1.getNumero());
 		System.out.println("Numero da conta cc2: " + cc2.getNumero());
+		
+		// teste
 	}
 
 }
