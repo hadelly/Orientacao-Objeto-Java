@@ -67,6 +67,8 @@ public class TiposDeVariaveis {
 		// teste
 		
 		// teste 2
+		
+		// teste 3
 	}
 
 }
